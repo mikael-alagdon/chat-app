@@ -5,7 +5,7 @@ const Login = () => {
     <div className='formContainer'>
         <div className='formWrapper'>
             <span className="logo">chat app</span>
-            <span className="title">register</span>
+            <span className="title">login</span>
             <form>
                 <input type="email" placeholder='email'/>
                 <input type="password" placeholder='password'/>
